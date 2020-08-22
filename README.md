@@ -1,2 +1,2 @@
 # saturday_test
-For class os August 22nd 
+For class on August 22nd 
